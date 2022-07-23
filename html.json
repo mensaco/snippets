@@ -195,16 +195,16 @@
 			"$0"
 		],
 		"description": "CDN jQuery 3.3.1 minified from CDN"
-	},	
+	},
 	"CDN Bootstrap 4.1.3 with JavaScript support file": {
 		"prefix": "cdnbootstrapJs",
 		"body": [
 			"<link rel='stylesheet' href='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css' integrity='sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO' crossorigin='anonymous'>",
-			"<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js' integrity='sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy' crossorigin='anonymous'></script>",		
+			"<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js' integrity='sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy' crossorigin='anonymous'></script>",
 			"$0"
 		],
 		"description": "CDN Bootstrap 4.1.3 with JavaScript support file"
-	},	
+	},
 	"container-fluid": {
 		"prefix": "cfl",
 		"body": [
@@ -219,7 +219,7 @@
 		],
 		"description": "Bootstrap col"
 	},
-		"bootstrap text form field": {
+	"bootstrap text form field": {
 		"prefix": "bstxt",
 		"body": [
 			"<div class=\"form-group\">",
@@ -230,4 +230,12 @@
 		],
 		"description": "bootstrap text form field"
 	},
+	"TailwindCss 3 Play CDN": {
+		"prefix": "twcss",
+		"body": [
+			"<script src=\"https://cdn.tailwindcss.com\"></script>",
+			"$0"
+		],
+		"description": "bootstrap text form field"
+	}
 }
