@@ -231,11 +231,11 @@
 		"description": "bootstrap text form field"
 	},
 	"TailwindCss 3 Play CDN": {
-		"prefix": "twcss",
+		"prefix": "cdntailwindcdn",
 		"body": [
 			"<script src=\"https://cdn.tailwindcss.com\"></script>",
 			"$0"
 		],
-		"description": "bootstrap text form field"
+		"description": "Tailwind CSS Version 3 CDN Link"
 	}
 }
