@@ -231,12 +231,25 @@
 		"description": "bootstrap text form field"
 	},
 	"TailwindCss 3 Play CDN": {
-		"prefix": "cdntailwindcdn",
+		"prefix": "cdntw3",
 		"body": [
 			"<script src=\"https://cdn.tailwindcss.com\"></script>",
 			"$0"
 		],
 		"description": "Tailwind CSS Version 3 CDN Link"
+	},
+	"TailwindCss 4 Play CDN": {
+		"prefix": "cdntw4",
+		"body": [
+			"<script src=\"https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4\"></script>",
+			"<style type=\"text/tailwindcss\">",
+			"    @theme {",
+			"        --color-clifford: #da373d;",
+			"    }",
+			"</style>",
+			"$0"
+		],
+		"description": "Tailwind CSS Version 4 CDN Link"
 	},
 	"CDN Alpine.js":{
 		"prefix":"cdnalpinejs",
